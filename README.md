@@ -65,7 +65,9 @@ Visualizes the fractal pattern formed by nucleotide positions.
 ### 🔹 K-mer Frequency Analysis
 Top 10 most frequent k-mers identified within a genome.
 
-![Table 1](images/img5.png)   ![Table 2](images/img8.png)
+![Table 1](images/img5.png)   
+
+![Table 2](images/img8.png)
 
 ### 🔹 GC Skew Plot
 Analyzes GC bias across genomic regions to identify replication origins and terminus points.
@@ -75,7 +77,9 @@ Analyzes GC bias across genomic regions to identify replication origins and term
 ### 🔹 CGR Matrix Similarity
 A visual and quantitative comparison between two genomes.
 
-![Matrix Comparison](images/img6.png)   ![Matrix Comparison](images/img7.png)
+![Matrix Comparison](images/img6.png)   
+
+![Matrix Comparison](images/img7.png)
 
 ---
 
