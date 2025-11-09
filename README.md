@@ -15,7 +15,7 @@
 
 ## 🧩 Features
 
-- 🔹 **Chaos Game Representation (CGR)** visualization for nucleotide sequences  ![Diagram](images/Gene.png)
+- 🔹 **Chaos Game Representation (CGR)** visualization for nucleotide sequences  
 - 🔹 **GC Skew** computation for analyzing base pair distribution  
 - 🔹 **K-mer frequency and clump analysis** for detecting repeating motifs  
 - 🔹 **Comparative visualization** between two genomes  
