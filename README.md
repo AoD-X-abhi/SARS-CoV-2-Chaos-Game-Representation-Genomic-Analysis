@@ -24,7 +24,7 @@ CGR provides a **fractal-like graphical representation** of DNA sequences, revea
 
 ## 🧩 Features
 
-- 🔹 **Chaos Game Representation (CGR)** visualization for nucleotide sequences  
+- 🔹 **Chaos Game Representation (CGR)** visualization for nucleotide sequences  ![Diagram](images/Gene.png)
 - 🔹 **GC Skew** computation for analyzing base pair distribution  
 - 🔹 **K-mer frequency and clump analysis** for detecting repeating motifs  
 - 🔹 **Comparative visualization** between two genomes  
