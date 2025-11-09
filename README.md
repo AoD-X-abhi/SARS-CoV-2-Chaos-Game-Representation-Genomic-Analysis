@@ -1,6 +1,6 @@
-
-# 🧬 Comparative Genomic Analysis using Chaos Game Representation (CGR)
-
+<div align="center">
+# 🧬 SARS CoV2 Comparative Genomic Analysis using Chaos Game Representation (CGR)
+</div>
 ### **MATLAB Implementation for DNA Sequence Visualization, GC-Skew, and Similarity Analysis**
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a+-orange.svg)](https://www.mathworks.com/products/matlab.html)
