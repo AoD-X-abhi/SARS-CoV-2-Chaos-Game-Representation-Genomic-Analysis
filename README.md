@@ -68,7 +68,7 @@ Top 10 most frequent k-mers identified within a genome.
 ### 🔹 GC Skew Plot
 Analyzes GC bias across genomic regions to identify replication origins and terminus points.
 
-![GC Skew Plot](images/GC_Skew.png)
+![GC Skew Plot](images/img4.png)
 
 ### 🔹 CGR Matrix Similarity
 A visual and quantitative comparison between two genomes.
