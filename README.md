@@ -58,7 +58,9 @@ CGR provides a **fractal-like graphical representation** of DNA sequences, revea
 ### 🔹 Chaos Game Representation (CGR)
 Visualizes the fractal pattern formed by nucleotide positions.
 
-![CGR Visualization](images/CGR_Plot.png)
+![The CGR matrix for SARS cov-2 genetic sequence](images/img1.png)
+
+![The CGR matrix for sample genetic sequence](images/img2.png)
 
 ### 🔹 K-mer Frequency Analysis
 Top 10 most frequent k-mers identified within a genome.
