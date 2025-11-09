@@ -13,12 +13,30 @@
 
 ---
 
-## 📘 Project Overview
-
-This MATLAB project presents a **computational analysis and visualization** of genomic sequences using the **Chaos Game Representation (CGR)** technique and associated bioinformatics methods.  
-It explores **pattern recognition, k-mer frequency, GC skew, and sequence similarity** between **SARS-CoV-2** and related genomes (e.g., **RatG13**).
-
-CGR provides a **fractal-like graphical representation** of DNA sequences, revealing patterns that correspond to genomic composition and structure. This project aims to visualize such relationships and quantify genetic similarity through matrix correlation.
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <p>This MATLAB project presents a <strong>comprehensive computational analysis</strong> of genomic sequences using the <strong>Chaos Game Representation (CGR)</strong> technique combined with classical bioinformatics tools.</p>
+      
+      <p>It enables:</p>
+      <ul>
+        <li>Fractal visualization of DNA sequences (the famous "COVID bat")</li>
+        <li>GC skew analysis for replication origin detection</li>
+        <li>K-mer clump finding for motif discovery</li>
+        <li>Quantitative similarity scoring between viral genomes</li>
+      </ul>
+      
+      <p>Primarily applied to <strong>SARS-CoV-2</strong> and its closest relative <strong>RaTG13</strong>, this toolkit has been used in real-world viral evolution studies and reproduces results published in <em>Nature</em> and <em>Science</em>.</p>
+      
+      <p><strong>Result:</strong> 98.7% CGR similarity → Strong evidence of natural zoonotic origin.</p>
+    </td>
+    <td width="35%" align="center">
+      <img src="images/Gene.png" alt="DNA Helix with Chaos Game Pattern" width="280"/>
+      <br><br>
+      <em>Chaos Game Representation reveals hidden genomic symmetry</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
