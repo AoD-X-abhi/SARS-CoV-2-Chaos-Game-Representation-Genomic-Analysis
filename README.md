@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🧬 SARS CoV2 Comparative Genomic Analysis using Chaos Game Representation (CGR)
+# 🧬 SARS CoV2 Comparative Genomic Analysis using Chaos-Game Representation (CGR)
 
 </div>
 
